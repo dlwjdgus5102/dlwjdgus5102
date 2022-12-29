@@ -1,16 +1,28 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-<!--
-**dlwjdgus5102/dlwjdgus5102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 저는 현재 멀티캠퍼스 풀스택 개발자 취업캠프(Python)에서 프로그램 언어를 배우고 있습니다. 
 
-Here are some ideas to get you started:
+<p> 
+📫  한국 출생
+📌  경상남도 김해시 거주중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## 주소
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dlwjdgus5102)](https://github.com/dlwjdgus5102)
+
+<hr>
+
+## ⚡ 배우는 과목
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/-python-yello?style=flat-square&logo=Python)
+
+<hr>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dlwjdgus5102&count_private=true&show_icons=true)
+
+
+ 마지막 업데이트  29/12/2022 19:38
