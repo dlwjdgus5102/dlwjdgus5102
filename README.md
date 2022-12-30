@@ -14,7 +14,7 @@
 
 <hr>
 
-## ⚡ 배우는 과목
+## ⚡  과목
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
